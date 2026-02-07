@@ -7,19 +7,21 @@ Build a predictive model using a real or public dataset to predict a future valu
 
 📊 Dataset Description:
 Dataset: yield_df.csv
+
 Type: Public agricultural dataset
-Features
-.Year,Average Rainfall,Average Temperature,Pesticide Usage,Target Variable,Crop Yield
+Features:Year,Average Rainfall,Average Temperature,Pesticide Usage,Target Variable,Crop Yield
 
 🔍 Results & Inference:
-.The model successfully learns relationships between environmental factors and crop yield.
+The model successfully learns relationships between environmental factors and crop yield.
+
 .Sample prediction output:
+
 Predicted Future Crop Yield: 512.45
-.This value represents the expected crop yield under given environmental conditions.
-.Rainfall and temperature were observed to have a strong influence on crop production.
+This value represents the expected crop yield under given environmental conditions.
+Rainfall and temperature were observed to have a strong influence on crop production.
 
 🛠️ Technologies Used:
-.Python,Pandas,NumPy,Scikit-learn,Flask (for deployment),Jupyter Notebook
+Python,Pandas,NumPy,Scikit-learn,Flask (for deployment),Jupyter Notebook
 
 ✅ Conclusion:
 This project demonstrates an end-to-end machine learning workflow, including data preprocessing, model training, evaluation, and deployment. It highlights strong ML fundamentals, effective data handling, and a clear focus on explainable predictions aligned with real-world agricultural applications.
