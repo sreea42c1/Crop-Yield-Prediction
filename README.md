@@ -15,6 +15,4 @@ Target Variable:Crop Yield
 
 🛠️ Technologies Used:Python,Pandas,NumPy,Scikit-learn,Flask (for deployment),Jupyter Notebook
 
-✅ Conclusion
-
-This project demonstrates an end-to-end machine learning workflow, including data preprocessing, model training, evaluation, and deployment. It highlights strong ML fundamentals, effective data handling, and a clear focus on explainable predictions aligned with real-world agricultural applications.
+✅ Conclusion:This project demonstrates an end-to-end machine learning workflow, including data preprocessing, model training, evaluation, and deployment. It highlights strong ML fundamentals, effective data handling, and a clear focus on explainable predictions aligned with real-world agricultural applications.
